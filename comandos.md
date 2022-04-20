@@ -19,7 +19,10 @@
 `git commit -m "mensagem desejada"`
 
 ## Mudar o nome da branck de master para mains (basta apenas uma vez no inicio)
-`git brnch -M main`
+`git branch -M main`
+
+## fazer um push (envio) para o repositótio remoto  (o "-u" é necessário somente na primeira conexão)
+`git push -u origin main`
 
 ## Fazer clone de um repositório 
 `git clone endereço-repositorio.git`
