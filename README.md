@@ -1,3 +1,3 @@
-# Bem vindo ao comndo de repositório de Comandos
+# Bem vindo ao repositório de Comandos
 
 ### Primeira vez usando comando de controle 
