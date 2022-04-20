@@ -27,5 +27,11 @@
 ## Fazer clone de um repositório 
 `git clone endereço-repositorio.git`
 
-## Adcione uma referência do repositório remoto no ambiente local
+## Adicione uma referência do repositório remoto no ambiente local (somente uma vez)
 `git remote add origin endereço-repositório.git`
+
+## Para mais informações de comando:
+https://training.github.com/downloads/pt_br/github-git-cheat-sheet/
+
+## Recuperar o histórico do repositório de remoto
+`git pull`
